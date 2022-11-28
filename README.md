@@ -1,7 +1,7 @@
 
 # Dice
 
-It is a flutter app that Can produce two different dices with random values.
+It is a flutter app that can produce two different dices with random values.
 
 
 ## Screenshots
